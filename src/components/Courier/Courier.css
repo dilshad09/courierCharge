@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 20vw;
+    margin: auto;
+}
+input, select{
+    display: block;
+  
+    margin: 5px;
+    
+}
+input[type=submit]{
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+}
